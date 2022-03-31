@@ -34,3 +34,8 @@ In order to develop a Domain Driven Design, we need Domain design
 ![image](https://user-images.githubusercontent.com/40006814/161149839-ee1103b2-1428-4147-a9c7-c54593886960.png)
 
 ![image](https://user-images.githubusercontent.com/40006814/161150357-37bc7692-5c18-46ca-bf79-fe53a90ec96c.png)
+
+![image](https://user-images.githubusercontent.com/40006814/161150770-25e07399-885b-41ac-9445-b62c474bb2fb.png)
+
+![image](https://user-images.githubusercontent.com/40006814/161150932-a99eab89-f759-489f-add3-72704b1cb3d5.png)
+
