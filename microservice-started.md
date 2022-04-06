@@ -21,3 +21,7 @@ Tests Deployment Monitoring Scaling
 RPCs are useful: 1.Simplicity 2. Easy to reason about 3. Easy for automation test
 
 RPCs as Microservice API = Programming Language + Web framework + HTTP endpoints
+
+service discovery
+
+![image](https://user-images.githubusercontent.com/40006814/162066045-6d74a6d9-e6e8-4561-a490-bafc31a50415.png)
