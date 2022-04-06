@@ -51,3 +51,5 @@ Clustering
 Multi-cloud
 
 Prefer simplicity
+
+Stateless RPCs -> RPCs that do not directly modify state in a data store
