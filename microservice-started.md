@@ -53,3 +53,10 @@ Multi-cloud
 Prefer simplicity
 
 Stateless RPCs -> RPCs that do not directly modify state in a data store
+
+![image](https://user-images.githubusercontent.com/40006814/162071070-bda1c7a9-1352-4e60-ba15-052a5749f19c.png)
+
+![image](https://user-images.githubusercontent.com/40006814/162071555-c29497a6-1625-4061-9924-c77b864d5da8.png)
+
+![image](https://user-images.githubusercontent.com/40006814/162072380-5de07297-15ef-4885-bb85-124587c2fa80.png)
+
