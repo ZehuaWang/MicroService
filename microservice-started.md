@@ -9,3 +9,15 @@ A service fails because one of its dependencies fails
 Robust Automation
 
 Tests Deployment Monitoring Scaling
+
+## Synchronous Communication Architecture
+
+![image](https://user-images.githubusercontent.com/40006814/162064876-a15889c1-4ae8-49e2-957a-a0a25cda837a.png)
+
+![image](https://user-images.githubusercontent.com/40006814/162064946-8fe8bb1e-8288-4704-90b5-4c907d1eae3c.png)
+
+![image](https://user-images.githubusercontent.com/40006814/162065137-4ccaf91c-09a3-44d2-b1fd-a84a777bc5d5.png)
+
+RPCs are useful: 1.Simplicity 2. Easy to reason about 3. Easy for automation test
+
+RPCs as Microservice API = Programming Language + Web framework + HTTP endpoints
