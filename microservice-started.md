@@ -29,3 +29,25 @@ service discovery
 ![image](https://user-images.githubusercontent.com/40006814/162067662-b8495d0b-b97d-4b71-89f8-0c5c5c385a08.png)
 
 ![image](https://user-images.githubusercontent.com/40006814/162067963-21c24681-6945-4216-922e-e54ca69bfa5e.png)
+
+Service Discovery requirement
+
+Vital for microservice
+
+Avoid coupling
+
+Maintain independence
+
+DNS is common
+
+Tough requirement
+
+Performance
+
+Scalability
+
+Clustering
+
+Multi-cloud
+
+Prefer simplicity
