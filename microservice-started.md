@@ -60,3 +60,4 @@ Stateless RPCs -> RPCs that do not directly modify state in a data store
 
 ![image](https://user-images.githubusercontent.com/40006814/162072380-5de07297-15ef-4885-bb85-124587c2fa80.png)
 
+![image](https://user-images.githubusercontent.com/40006814/162073419-1bea2b16-0e99-4653-8f2d-16b0dc2c1924.png)
