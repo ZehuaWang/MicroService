@@ -66,4 +66,7 @@ Performance of Synchronous Communications
 
 Understanding performance characteristics and defending against unacceptable performance.
 
+Async Communication:
+
+![image](https://user-images.githubusercontent.com/40006814/162834389-6ffd6c84-dd51-4e2c-a0bd-e0a55a093be7.png)
 
